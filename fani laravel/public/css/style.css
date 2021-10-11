@@ -1,0 +1,26 @@
+body{
+    background-image: url(../img/gambar1.jpg);
+}
+
+#about{
+    padding-top: 7rem;
+}
+#alamat{
+    margin-left: 17rem;
+}
+.Copyright{
+    margin-left: 2rem;
+}
+.alt{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 5rem;
+    margin-bottom: 15px;
+}
+h1{
+    font-weight: bold;
+}
+h2{
+    margin-top: 80px;
+    font-weight: bold;
+}
